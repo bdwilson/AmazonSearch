@@ -9,8 +9,8 @@ Requirements
 ------------
 - Linux system (or Raspberry Pi)
 - [Pushover account](https://pushover.net/) - You will also need to [register
-  an application](https://pushover.net/apps/build) and you can use my logo
-(https://pushover.net/icons/TKeuSZYBwATtanz.png). There is a free trial period
+  an application](https://pushover.net/apps/build) and you can use my [logo]
+(http://www.hmlglaw.com/uploads/images/amazon-icon.png). There is a free trial period
 available so you can see if you like the app; it's awesome and definately money
 well spent.
 - Perl (and these modules: Net::Amazon LWP::UserAgent Data::Dumper)

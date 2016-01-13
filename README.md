@@ -36,7 +36,8 @@ your user key.
 3. Create/Retrieve your [Amazon API
 information](https://affiliate-program.amazon.com/gp/advertising/api/detail/your-account.html)
 and fill in the info in the script.  You need to create an affiliate account
-and get your affiliate ID as well. 
+and get your affiliate ID as well.  Then you have to create a new key pair in
+the [AWS IAM console](https://console.aws.amazon.com/iam/home)
 4. Get the items you want to search for and extract the ASIN ID from the URL.
 When adding these to the script the format is ''ASIN/Whatever name you give
 your search'' and then the threshold amount. 
